@@ -20,9 +20,8 @@ The following business rules are applied to the Contact Us form:
 First Name, Last Name, Email, and Comments fields are mandatory.  
 First Name and Last Name must contain between 2 and 25 characters.  
 Email address must adhere to international validation rules.
-Project Structure
 
-# Content 
+# Project Structure 
 
 test_scenarios.feature: Contains all the test scenarios written in Gherkin syntax.  
 StepDefinitions.java: Implements the steps defined in the feature files using Selenium WebDriver and Java.  
